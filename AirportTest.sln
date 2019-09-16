@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AirportTest", "AirportTest\AirportTest.csproj", "{FF1C2163-3E84-4ED1-B278-E511472B60BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AirportTest.Contracts", "AirportTest.Contracts\AirportTest.Contracts.csproj", "{FB88326F-1EE2-4ABA-A601-87B5E73666D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AirportTest.Entities", "AirportTest.Entities\AirportTest.Entities.csproj", "{878BF0D4-7C94-42FB-8072-D45507A41EDC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Airport.Repository", "Airport.Repository\Airport.Repository.csproj", "{31850D77-0B7E-4AC4-8B8F-98B5756696EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Airport.Services", "Airport.Services\Airport.Services.csproj", "{6D880D2F-DBEE-47B0-94E3-67871D29A9F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF1C2163-3E84-4ED1-B278-E511472B60BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1C2163-3E84-4ED1-B278-E511472B60BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1C2163-3E84-4ED1-B278-E511472B60BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1C2163-3E84-4ED1-B278-E511472B60BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB88326F-1EE2-4ABA-A601-87B5E73666D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB88326F-1EE2-4ABA-A601-87B5E73666D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB88326F-1EE2-4ABA-A601-87B5E73666D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB88326F-1EE2-4ABA-A601-87B5E73666D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{878BF0D4-7C94-42FB-8072-D45507A41EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878BF0D4-7C94-42FB-8072-D45507A41EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878BF0D4-7C94-42FB-8072-D45507A41EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878BF0D4-7C94-42FB-8072-D45507A41EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31850D77-0B7E-4AC4-8B8F-98B5756696EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31850D77-0B7E-4AC4-8B8F-98B5756696EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31850D77-0B7E-4AC4-8B8F-98B5756696EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31850D77-0B7E-4AC4-8B8F-98B5756696EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D880D2F-DBEE-47B0-94E3-67871D29A9F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D880D2F-DBEE-47B0-94E3-67871D29A9F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D880D2F-DBEE-47B0-94E3-67871D29A9F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D880D2F-DBEE-47B0-94E3-67871D29A9F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AE07DE6-51AF-4D05-9C7D-F34ECED61CD3}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://idvillota.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AirportTest\\AirportTest.csproj
+		SccProjectName1 = AirportTest
+		SccLocalPath1 = AirportTest
+		SccProjectUniqueName2 = AirportTest.Contracts\\AirportTest.Contracts.csproj
+		SccProjectName2 = AirportTest.Contracts
+		SccLocalPath2 = AirportTest.Contracts
+		SccProjectUniqueName3 = AirportTest.Entities\\AirportTest.Entities.csproj
+		SccProjectName3 = AirportTest.Entities
+		SccLocalPath3 = AirportTest.Entities
+		SccProjectUniqueName4 = Airport.Repository\\Airport.Repository.csproj
+		SccProjectName4 = Airport.Repository
+		SccLocalPath4 = Airport.Repository
+		SccProjectUniqueName5 = Airport.Services\\Airport.Services.csproj
+		SccProjectName5 = Airport.Services
+		SccLocalPath5 = Airport.Services
+	EndGlobalSection
+EndGlobal
